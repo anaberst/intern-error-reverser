@@ -1,4 +1,4 @@
-# :arrows_counterclockwise: CS271 Error Reverser
+# :arrows_counterclockwise: Intern Error Reverser
 
 Final project for `CS271: Computer Architecture and Assembly Language` at Oregon State University. It has been approved for public sharing.
 
